@@ -5,13 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leonardopoggiani" alt="leonardopoggiani" /></a> </p>
 
-- 🔭 I’m currently working on [Performance Evaluation of Computer Systems and Networks project](https://github.com/leonardopoggiani/PECSNproject)
+- 🔭 I’m currently working on [Foundations of Cybersecurity](https://github.com/leonardopoggiani/CybersecurityProject)
 
 - 🌱 I’m currently learning **Rust, Android Programming, Cloud Computing**
-
-- 👨‍💻 All of my projects are available at [https://github.com/leonardopoggiani/leonardopoggiani.github.io](https://github.com/leonardopoggiani/leonardopoggiani.github.io)
-
-- 📝 I regularly write articles on [https://leonardopoggiani.github.io/blog/](https://leonardopoggiani.github.io/blog/)
 
 - 💬 Ask me about **C++, Java**
 
