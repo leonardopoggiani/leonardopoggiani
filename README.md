@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **leonardo.poggiani@gmail.com**
 
-- 📄 Know about my experiences [https://leonardopoggiani.github.io/cv/](https://leonardopoggiani.github.io/cv/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/leonardo_poggio" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="leonardo_poggio" height="30" width="40" /></a>
