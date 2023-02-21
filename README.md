@@ -22,4 +22,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leonardopoggiani&show_icons=true&locale=en" alt="leonardopoggiani" /></p>
 
+<!-- Markdown -->
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
