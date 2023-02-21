@@ -3,7 +3,7 @@
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardopoggiani&label=Profile%20views&color=0e75b6&style=flat" alt="leonardopoggiani" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=leonardopoggiani&label=Profile%20views&color=0e75b6&style=flat" alt="leonardopoggiani" /> </p>
 
 - 🌱 I’m currently learning **GO, Kubernetes, Rust**
 
