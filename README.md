@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leonardo!</h1>
-<h3 align="left">A computer engineering student from Italy!</h3>
+<h3 align="center">A computer engineering student from Italy!</h3>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+<center>[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)</center>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=leonardopoggiani&label=Profile%20views&color=0e75b6&style=flat" alt="leonardopoggiani" /> </p>
 
@@ -24,4 +24,4 @@
 
 <!-- Markdown -->
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<center>![Jokes Card](https://readme-jokes.vercel.app/api)</center>
